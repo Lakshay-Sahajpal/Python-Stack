@@ -1,0 +1,8 @@
+OrderID,CustomerName,Product,Quantity,Price($),OrderDate,ShippingCost($),City
+101,Alice,iPhone,2,999.99,2023-01-01,10.0, New York
+102,Bob,iPhone,3,1099.99,2023-01-02,15.0,New York
+103,Bob,iPhone,3,899.0,2023-03-05,0.0,New York
+104,Charlie,iPhone,4,1000.0,2023-03-15,10.92,Los Angeles
+105,Dan,Laptop,3,799.0,2023-04-01,20.0,Los Angeles
+106,Eve,iPad,5,499.5,2023-05-05,5.5,Chicago
+107,Bob,iPhone,3,1099.99,2023-01-02,15.0, New York
